@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<instituto>
+   <docente id="1">
+     <nombre>Mario Palma</nombre>
+     <username>mario</username>
+     <password>321423</password>
+  </docente>
+   <docente id="2">
+     <nombre>Jonatan Morocho</nombre>
+     <username>jonatan</username>
+     <password>433543</password>
+  </docente>
+  <docente id="3">
+     <nombre>Daniela Torres</nombre>
+     <username>daniela</username>
+     <password>433523</password>
+  </docente>
+</instituto>
